@@ -1,0 +1,83 @@
+# Hi there! 👋 I'm Yogendhra Gadhamchetty
+
+🎓 **4th Year Software Engineering Student** at Vellore Institute of Technology (VIT)  
+🔭 Currently pursuing **Integrated M.Tech in Software Engineering** (2022-2027)  
+🤖 Passionate about **AI Agents**, **Backend Systems**, and **Automation Tools**
+
+## 🚀 About Me
+
+I'm a software engineering student with hands-on experience building AI agents, tools, and backend systems. I love creating agentic workflows using LangChain, MCP, locally hosted LLMs, and modern APIs. Always seeking opportunities to work on challenging problems and build impactful solutions!
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Frameworks & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### AI & ML
+- **LangChain** - Building AI agent workflows
+- **Ollama** - Local LLM deployment
+- **Model Context Protocol (MCP)** - AI system integration
+- **Scikit-learn** - Machine Learning models
+
+## 🔥 Featured Projects
+
+### 🤖 [Zerodha MCP Server](link-to-repo)
+Built an MCP server integrating Dhan API for **trading automation and journaling**
+- Custom tools for portfolio tracking and buy/sell triggers
+- MongoDB integration for log storage
+- **Tech:** MCP, MongoDB, Trading APIs
+
+### 💼 [LinkedIn Automation Agent](link-to-repo)
+CLI-based LinkedIn post agent with intelligent automation
+- Automated project matching and post drafting
+- User approval workflow in terminal
+- **Tech:** LangChain, Ollama, GitHub API
+
+### 📚 [Bookstore Web Application](link-to-repo)
+Full-stack CRUD bookstore application
+- Clean UI with dynamic routing
+- Complete REST API backend
+- **Tech:** JavaScript, Express.js
+
+### 🎯 [Student Placement Prediction](link-to-repo)
+ML model predicting placement probability from academic data
+- Clean data pipeline implementation
+- **Tech:** Scikit-learn, Logistic Regression
+
+### 🔍 [CNN Fingerprint Classification](link-to-repo)
+Deep learning model for fingerprint pattern classification
+- Achieved **78%+ accuracy** with CNN and ResNet
+- Advanced techniques: TTA, Focal Loss, Image Augmentation
+
+## 📊 GitHub Stats
+
+![Yogendhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🏆 Certifications
+
+- 📊 **NumPy and Pandas Course** - Coursera
+- 🤖 **Multi AI Agent Systems with CrewAI**
+- 💬 **ChatGPT Prompt Engineering for Developers**
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yogendhra009@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+
+---
+
+💡 *"Always learning, always building, always pushing the boundaries of what's possible with AI and software engineering!"*
+
+⭐️ From [Yogendhra](https://github.com/yourusername)
